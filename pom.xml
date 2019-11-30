@@ -94,16 +94,16 @@
 	
 	<distributionManagement>
 	
-	    <repository>
+	    <releseRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.95.21:8081/repository/amazon3-release/</url>
-	    </repository>
+	      <url>http://13.233.206.61:8081/repository/flipkart-release/</url>
+	    </releaseRepository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.95.21:8081/repository/amazon3-snapshot/</url>
+	      <url>http://13.233.206.61:8081/repository/flipkar-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
